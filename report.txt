@@ -1,0 +1,3 @@
+From: security-alert@paypal-login-verify.com
+Subject: Your PayPal account has been limited!
+Verdict: SUSPICIOUS
