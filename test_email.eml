@@ -1,0 +1,14 @@
+From: security-alert@paypal-login-verify.com
+To: victim@gmail.com
+Subject: Your PayPal account has been limited!
+Received: from 193.32.162.157 (mail.paypal-login-verify.com)
+Message-ID: <xyz999@paypal-login-verify.com>
+Date: Mon, 1 Apr 2024 10:00:00 +0000
+
+Dear Customer,
+
+Your account has been limited. Please verify immediately:
+http://paypal-login-verify.com/secure/verify
+http://tinyurl.com/phishing-test-example
+
+Failure to verify will result in account suspension.
